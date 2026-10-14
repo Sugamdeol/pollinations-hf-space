@@ -1,5 +1,8 @@
 # Pollinations BYOP Demo Space
 
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
+
+
 **Pollinations QUEST #17249** - A Hugging Face Space people duplicate to build with Pollinations
 
 ## Features
